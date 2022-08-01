@@ -1,0 +1,47 @@
+G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,(6.0.1)*
+G04 #@! TF.CreationDate,2022-06-04T21:41:08-05:00*
+G04 #@! TF.ProjectId,Bsides-KC-2021-SAO-BP,42736964-6573-42d4-9b43-2d323032312d,rev?*
+G04 #@! TF.SameCoordinates,Original*
+G04 #@! TF.FileFunction,Copper,L1,Top*
+G04 #@! TF.FilePolarity,Positive*
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW (6.0.1)) date 2022-06-04 21:41:08*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+G04 #@! TA.AperFunction,ComponentPad*
+%ADD10O,1.727200X1.727200*%
+G04 #@! TD*
+G04 #@! TA.AperFunction,ComponentPad*
+%ADD11R,1.727200X1.727200*%
+G04 #@! TD*
+G04 #@! TA.AperFunction,ComponentPad*
+%ADD12C,1.727200*%
+G04 #@! TD*
+G04 APERTURE END LIST*
+D10*
+G04 #@! TO.P,X1,1,VCC*
+G04 #@! TO.N,VCC*
+X151482100Y-130017200D03*
+D11*
+G04 #@! TO.P,X1,2,GND*
+G04 #@! TO.N,GND*
+X151482100Y-132557200D03*
+D10*
+G04 #@! TO.P,X1,3,SDA*
+G04 #@! TO.N,unconnected-(X1-Pad3)*
+X154022100Y-130017200D03*
+G04 #@! TO.P,X1,4,SCL*
+G04 #@! TO.N,unconnected-(X1-Pad4)*
+X154022100Y-132557200D03*
+D12*
+G04 #@! TO.P,X1,5,GPIO1*
+G04 #@! TO.N,unconnected-(X1-Pad5)*
+X156562100Y-130017200D03*
+G04 #@! TO.P,X1,6,GPIO2*
+G04 #@! TO.N,unconnected-(X1-Pad6)*
+X156562100Y-132557200D03*
+G04 #@! TD*
+M02*
